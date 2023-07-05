@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={Img} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Do you know PogChamp?
         </p>
 
         <a
@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Pog
         </a>
       </header>
     </div>
