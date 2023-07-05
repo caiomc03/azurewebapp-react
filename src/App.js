@@ -2,15 +2,15 @@
 import './App.css';
 
 function App() {
-  const pogImg = 'https://caiomc03bucket.blob.core.windows.net/container2/pog.png'
+  const Img = 'https://caiomc03bucket.blob.core.windows.net/container2/pog.png'
   return (
     <div className="App">
       <header className="App-header">
-        <img src={pogImg} className="App-logo" alt="logo" />
+        <img src={Img} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        
+
         <a
           className="App-link"
           href="https://reactjs.org"
