@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={Img} className="App-logo" alt="logo" />
         <p>
-          Do you know PogChamp?
+          Pogchamp
         </p>
 
         <a
